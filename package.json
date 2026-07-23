@@ -2,6 +2,7 @@
   "name": "haes-website",
   "version": "0.1.0",
   "private": true,
+  "base": "/haes-05/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
