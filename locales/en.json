@@ -1,0 +1,22 @@
+{
+  "site": {
+    "name": "HAES Institute",
+    "tagline": "Transforming education for the age of AI",
+    "description": "Our international research is designed to transform education systems and establish global standards for a connected learning environment in the age of AI and digital transformation."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "research": "Research",
+    "publications": "Publications",
+    "team": "Team",
+    "news": "News",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_cta": "Get in touch",
+    "explore_research": "Explore our research",
+    "research_heading": "Research focus areas",
+    "get_involved_heading": "Get involved"
+  }
+}

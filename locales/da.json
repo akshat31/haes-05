@@ -1,0 +1,22 @@
+{
+  "site": {
+    "name": "HAES Institute",
+    "tagline": "Transformere uddannelse til AI-æraen",
+    "description": "Vores internationale forskning er designet til at transformere uddannelsessystemer og etablere globale standarder for et forbundet læringsmiljø i AI- og digitaliseringens tidsalder."
+  },
+  "nav": {
+    "home": "Hjem",
+    "about": "Om",
+    "research": "Forskning",
+    "publications": "Publikationer",
+    "team": "Team",
+    "news": "Nyheder",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "hero_cta": "Kontakt os",
+    "explore_research": "Udforsk vores forskning",
+    "research_heading": "Forskningsområder",
+    "get_involved_heading": "Bliv involveret"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "site": {
+    "name": "HAES Institute",
+    "tagline": "Onderwijs transformeren voor het AI-tijdperk",
+    "description": "Ons internationale onderzoek is ontworpen om onderwijssystemen te transformeren en wereldwijde normen vast te stellen voor een verbonden leeromgeving in het tijdperk van AI en digitale transformatie."
+  },
+  "nav": {
+    "home": "Home",
+    "about": "Over",
+    "research": "Onderzoek",
+    "publications": "Publicaties",
+    "team": "Team",
+    "news": "Nieuws",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_cta": "Contact opnemen",
+    "explore_research": "Ons onderzoek verkennen",
+    "research_heading": "Onderzoeksgebieden",
+    "get_involved_heading": "Doe mee"
+  }
+}

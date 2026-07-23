@@ -1,0 +1,22 @@
+{
+  "site": {
+    "name": "HAES Institute",
+    "tagline": "Przekształcanie edukacji na erę AI",
+    "description": "Nasze międzynarodowe badania mają na celu przekształcenie systemów edukacji oraz ustanowienie globalnych standardów dla połączonego środowiska nauki w erze AI i transformacji cyfrowej."
+  },
+  "nav": {
+    "home": "Start",
+    "about": "O nas",
+    "research": "Badania",
+    "publications": "Publikacje",
+    "team": "Zespół",
+    "news": "Aktualności",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "hero_cta": "Skontaktuj się",
+    "explore_research": "Poznaj nasze badania",
+    "research_heading": "Obszary badań",
+    "get_involved_heading": "Zaangażuj się"
+  }
+}

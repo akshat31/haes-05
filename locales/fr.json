@@ -1,0 +1,22 @@
+{
+  "site": {
+    "name": "HAES Institute",
+    "tagline": "Transformer l'éducation à l'ère de l'IA",
+    "description": "Nos recherches internationales visent à transformer les systèmes éducatifs et à établir des normes mondiales pour un environnement d'apprentissage connecté à l'ère de l'IA et de la transformation numérique."
+  },
+  "nav": {
+    "home": "Accueil",
+    "about": "À propos",
+    "research": "Recherche",
+    "publications": "Publications",
+    "team": "Équipe",
+    "news": "Actualités",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero_cta": "Contactez-nous",
+    "explore_research": "Découvrir nos recherches",
+    "research_heading": "Axes de recherche",
+    "get_involved_heading": "S'impliquer"
+  }
+}
